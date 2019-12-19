@@ -1,2 +1,2 @@
 # Keeper-App
-using react.js
+Replica of Google Keep
